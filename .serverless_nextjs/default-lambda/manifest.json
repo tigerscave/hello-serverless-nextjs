@@ -1,0 +1,1 @@
+{"buildId":"s2Q2jRfwXEOpvxVolcPFp","pages":{"ssr":{"dynamic":{},"nonDynamic":{"/_error":"pages/_error.js","/_app":"pages/_app.js","/_document":"pages/_document.js"}},"html":{"dynamic":{},"nonDynamic":{"/index":"pages/index.html","/sample":"pages/sample.html","/":"pages/index.html","/404":"pages/404.html"}}},"publicFiles":{"/favicon.ico":"favicon.ico","/vercel.svg":"vercel.svg"}}
